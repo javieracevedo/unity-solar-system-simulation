@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 0ddb4b827a14a5f409a42a8a1c831bc8
+  - enabled: 1
+    path: Assets/Scenes/Solar System.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Planets Info Scenes/Earth Scene.unity
+    guid: 9988c42ef5beb2541acea4c34f0c1c97
+  - enabled: 1
+    path: Assets/Scenes/Planets Info Scenes/Jupiter Scene.unity
+    guid: 08de06cd623452b46816e308e03bf269
+  - enabled: 1
+    path: Assets/Scenes/Planets Info Scenes/Mars Scene.unity
+    guid: 65bb52ed9ecd246468e6b20d4d9d79d4
+  - enabled: 1
+    path: Assets/Scenes/Planets Info Scenes/Mercury Scene.unity
+    guid: ac56b4663e0dc5744ac1525da528b19b
+  - enabled: 1
+    path: Assets/Scenes/Planets Info Scenes/Neptune Scene.unity
+    guid: a1d5d5363ba8e1a45a0aa83cc170c0b2
+  - enabled: 1
+    path: Assets/Scenes/Planets Info Scenes/Saturn Scene.unity
+    guid: 8c2a984e3441f4a4caa51bf1a7a339cf
+  - enabled: 1
+    path: Assets/Scenes/Planets Info Scenes/Venus Scene.unity
+    guid: ef11a64f5f93de146ab228b4a3ac9ba9
+  - enabled: 1
+    path: Assets/Scenes/Planets Info Scenes/Uranus Scene.unity
+    guid: 86d99f4b732028d4984bf3b7118ecad7
