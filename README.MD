@@ -10,5 +10,5 @@ other resources.
 
 ![Image of Yaktocat](./simulation.gif)
 
-It was pretty fun project that helped get familiar with the unity UI and it;s tools, most of 
-the code was provided by the course, except for the UI menu.
+It was pretty fun project that helped me get familiar with the unity UI and it's tools.
+Most of the code was provided by the course, except for the UI menu.
